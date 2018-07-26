@@ -1,0 +1,14 @@
+{
+  "name": "cake-slides",
+  "version": "1.0.0",
+  "description": "Cake presentation",
+  "main": "index.js",
+  "author": "Pervez Choudhury",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^0.3.4"
+  },
+  "scripts": {
+    "deck": "reveal-md src/index.md -w --css src/css/custom.css"
+  }
+}
