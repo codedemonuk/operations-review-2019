@@ -19,6 +19,36 @@ Cllr Pervez Choudhury
 
 ## Performance
 
++++
+
+### Performance Management Arrangements in 2018/19
+
+Note:
+
+- 2020 Vision, Corporate Plan for Hertsmere published for the period 2017 - 2020
+
+- Alongside the overarching plan:
+  - A retrospective Annual Report which details the Council’s achievements against each priority area over the last year
+  - A forward looking annual Action Plan which sets out the key areas of work under each Corporate priority for the year ahead.
+- To support this, a new Performance Management Framework was introduced.
+  In line with the plan it significantly reduced the number of PIs being reported corporately to ensure an increased focus on key services.
+  15 Quality Service Indicators (QSIs) have been selected to reflect the core council services and are closely monitored to ensure high levels of service delivery.
+  A wider set of Key Performance Indicators are reviewed by the Executive Performance Panel on an exception basis and Senior Officers maintain an overview across all 100 corporately collected PIs.
+
+- Performance Management now takes place as follows:
+  - Corporate Action Plan and Quality Service Indicators – quarterly updates to Chief Officers, Executive Performance Management Panel and Executive.
+  - Key Performance Indicators – quarterly update to Chief Officers and by exception to Executive Performance Management Panel.
+  - Management Information Indicators – quarterly update to Chief Officers
+- Issues requiring further investigation are referred to the relevant Scrutiny Committee.
+
++++
+
+### Deelopments for 2019/20
+
+Note:
+
+Following on from an Audit of Data Quality which took place during 2018, an updated Data Quality Policy Statement will be introduced for 2019/20.  This document articulates the Council’s commitment to data quality with a focus on the Quality Service Indicator set.  All QSIs will require a supporting Audit Trail to be completed which identifies the source of the data along with checks made to ensure the accuracy of the data being reported.
+
 ---
 
 ## IT
