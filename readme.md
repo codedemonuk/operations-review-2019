@@ -1,4 +1,4 @@
-# Operations Review Committee 2019
+# Operations Review Committee 2019
 
 ## Build
 
