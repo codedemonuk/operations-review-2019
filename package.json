@@ -6,7 +6,7 @@
   "author": "Pervez Choudhury",
   "license": "MIT",
   "dependencies": {
-    "reveal-md": "^0.3.4"
+    "reveal-md": "^2.4.1"
   },
   "scripts": {
     "deck": "reveal-md src/index.md -w --css src/css/custom.css"
