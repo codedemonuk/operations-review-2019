@@ -13,10 +13,12 @@ Cllr Pervez Choudhury
 
 ---
 
+<!-- .slide: data-background="./back/king-s-church-international-671261-unsplash.jpg" -->
 ## Community Safety
 
 +++
 
+<!-- .slide: data-background="./back/king-s-church-international-671261-unsplash.jpg" -->
 ### Police Leadership Update
 
 Note:
@@ -206,10 +208,12 @@ Following on from an Audit of Data Quality which took place during 2018, an upda
 
 ---
 
+<!-- .slide: data-background="./back/alexandru-bogdan-ghita-481901-unsplash.jpg" -->
 ## IT
 
 +++
 
+<!-- .slide: data-background="./back/nikita-kachanovsky-571468-unsplash.jpg" -->
 ### Business Support and Projects Team
 
 Note:
@@ -222,6 +226,7 @@ Note:
 
 +++
 
+<!-- .slide: data-background="./back/jordan-harrison-1208586-unsplash.jpg" -->
 ### Infrastructure Team
 
 Note:
@@ -233,6 +238,7 @@ Note:
 
 +++
 
+<!-- .slide: data-background="./back/neonbrand-428978-unsplash.jpg" -->
 ### Service Desk Team
 
 Note:
@@ -242,6 +248,7 @@ Note:
 
 +++
 
+<!-- .slide: data-background="./back/freestocks-org-540554-unsplash.jpg" -->
 ### Technical Security
 
 Note:
@@ -255,6 +262,7 @@ The email filter blocks 130 Viruses.
 
 +++
 
+<!-- .slide: data-background="./back/freestocks-org-540554-unsplash.jpg" -->
 ### Ongoing Projects
 
 Note:
@@ -267,6 +275,7 @@ Note:
 
 ---
 
+<!-- .slide: data-background="./back/perry-grone-732606-unsplash.jpg" -->
 ## Human Resources
 
 Note:
@@ -275,6 +284,7 @@ In 2018 we achieved the following:
 
 +++
 
+<!-- .slide: data-background="./back/rawpixel-577480-unsplash.jpg" -->
 ### Health and Wellbeing
 
 Note:
@@ -284,6 +294,7 @@ Note:
 
 +++
 
+<!-- .slide: data-background="./back/aaron-burden-791792-unsplash.jpg" -->
 ### Organisation Changes
 
 Note:
@@ -296,6 +307,7 @@ Note:
 
 +++
 
+<!-- .slide: data-background="./back/patrick-tomasso-71909-unsplash.jpg" -->
 ### Policies
 
 Note:
@@ -338,13 +350,6 @@ Thanks to:
 - Judith Fear
 - Liz Gore
 - Valerie Kane
-
-Images from Unsplash.com
-
-<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@greysonjoralemon?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Greyson Joralemon"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Greyson Joralemon</span></a>
-<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@ninjason?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Jason Leung"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Jason Leung</span></a>
-<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@rohan_g?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Rohan G"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Rohan G</span></a>
-<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@timothywilliamrose?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Timothy Rose"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Timothy Rose</span></a>
 
 ---
 
