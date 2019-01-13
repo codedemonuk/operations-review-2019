@@ -5,3 +5,8 @@
     padding-right: 1em;
     padding-left: 1em;
 }
+
+.slides #emerging-issues {
+    display: table;
+    margin: 0 auto;
+}
