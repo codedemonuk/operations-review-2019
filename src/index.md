@@ -106,8 +106,10 @@ This project; supported by a Project Manager, will provide an action based devel
 3 years -  £54,000
 
 Three Rivers, Watford and Hertsmere CSP’s are working in partnership to develop a Youth Violent Crime Reduction Project in line with the Hertfordshire Serious Violence Strategy, to intervene and prevent young people from becoming victims or perpetrators of violent crime and associated behaviours. This project aims to identify and share information amongst a multi-agency panel regarding young people of concern, as either perpetrators of crime, victims of exploitation or those at risk of either behaviours.
+
 Part of this project will involve Chessbrook Education Support Centre (a registered Pupil Referral Unit) chairing a Youth Violent Crime Reduction Panel, with multi-agency involvement to risk assess, action plan, track the intervention and progress of young people referred in to the Panel.
 The three CSP’s have identified a gap in provision for those needing “early intervention”. The funding received through this bid will expand the current “Better Choices” project run by YC Hertfordshire, to allow for existing YC Hertfordshire staff with dedicated capacity to work individually with at risk young people and their families (if required).
+
 This service aims to deliver a targeted and proactive approach to early intervention. The workers would provide young people aged 11-18 with specialist one to one support and advice on action planning, emotional wellbeing, lifestyle choices, protective behaviours and relationships, which may enable them to access to additional diversionary activities provided through YC Hertfordshire or the Panel.
 We aim to provide 450 hours of support per year to young people referred to the service. This is instead of having a fixed number of young people to support, to allow for flexibility in duration of intervention dependant on the young person’s level of need or the needs of their family. Flexibility will enable YC Hertfordshire to provide a client-focussed service.
 
@@ -254,11 +256,13 @@ Note:
 Note:
 
 The threat of a cyber-attack is increasing with a number of high profile successful attacks in the media in the last year. The team have worked hard with limited resources to protect the Councils assets and reputation. Our cyber defences are continually reviewed and updated. The team monitor the Councils systems overnight and at weekends.
+
 In a typical month:
-The email filter blocks 130 Viruses.
-28,500 Spams emails are rejected.
-10,500 emails are quarantined for review by the infrastructure team.
-475 cyber intrusion events occurred.
+
+- The email filter blocks 130 Viruses.
+- 28,500 Spams emails are rejected.
+- 10,500 emails are quarantined for review by the infrastructure team.
+- 475 cyber intrusion events occurred.
 
 +++
 
@@ -350,6 +354,10 @@ Thanks to:
 - Judith Fear
 - Liz Gore
 - Valerie Kane
+
+Note:
+
+I would like to thanks Hilary Shade, John Robinson, Judith Fear, Liz Gore, and Valerie Kane for helping me to collate the information for tonight and for all the work that they and their respective teams do for this Council and community.
 
 ---
 
