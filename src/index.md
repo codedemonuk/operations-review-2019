@@ -11,6 +11,18 @@ revealOptions:
 
 Cllr Pervez Choudhury
 
+Note:
+
+Tonight I will talk about the various areas of my portfolio including:
+
+- Community safety
+- Performance
+- CCTV
+- Information and Digital Services
+- HR
+
+I will take questions at the end.
+
 ---
 
 <!-- .slide: data-background="./back/king-s-church-international-671261-unsplash.jpg" -->
@@ -29,6 +41,7 @@ She is accompanied by Acting Inspector Leah McDermott, who will be holding the f
 
 +++
 
+<!-- .slide: data-background="./back/timothy-rose-593048-unsplash.jpg" -->
 ### PCC Community Safety Funding Update
 
 - Safer Minds
@@ -73,6 +86,7 @@ The website also offers information and advice about a range of crimes.
 
 +++
 
+<!-- .slide: data-background="./back/timothy-rose-593048-unsplash.jpg" -->
 ### PCC Funding Bids Made to the Community Safety Fund 2019 20
 
 Note:
@@ -128,6 +142,7 @@ The PCC’s office will be undertaking an initial assessment of all applications
 
 +++
 
+<!-- .slide: data-background="./back/timothy-rose-593048-unsplash.jpg" -->
 ### Emerging Issues
 
 <iframe width="951" height="535" src="https://www.youtube.com/embed/cIsVQ_SPmMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -140,6 +155,7 @@ We intend to run further events of this nature across the borough.
 
 +++
 
+<!-- .slide: data-background="./back/timothy-rose-593048-unsplash.jpg" -->
 ### Emerging Issues
 
 - Cuckooing
@@ -176,10 +192,12 @@ Stevenage Borough Council will manage this move.
 
 ---
 
+<!-- .slide: data-background="./back/timothy-rose-593048-unsplash.jpg" -->
 ## Performance
 
 +++
 
+<!-- .slide: data-background="./back/timothy-rose-593048-unsplash.jpg" -->
 ### Performance Management Arrangements in 2018/19
 
 Note:
@@ -202,6 +220,7 @@ Note:
 
 +++
 
+<!-- .slide: data-background="./back/timothy-rose-593048-unsplash.jpg" -->
 ### Developments for 2019/20
 
 Note:
@@ -211,7 +230,7 @@ Following on from an Audit of Data Quality which took place during 2018, an upda
 ---
 
 <!-- .slide: data-background="./back/alexandru-bogdan-ghita-481901-unsplash.jpg" -->
-## IT
+## Information and Digital Services
 
 +++
 
@@ -322,6 +341,7 @@ Note:
 
 +++
 
+<!-- .slide: data-background="./back/timothy-rose-593048-unsplash.jpg" -->
 ### Other work
 
 Note:
@@ -332,10 +352,6 @@ Note:
 - We achieved a good outcome from the Gender Pay Gap Analysis and published this in accordance with the legislative timetable as well as reporting it as part of the annual pay statement to full council
 
 - The Workforce plan will be coming to the Personnel Committee in February and will set out the action plan for HR work for the year.
-
----
-
-## Customer Services
 
 ---
 
