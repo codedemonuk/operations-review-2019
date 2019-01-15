@@ -175,6 +175,36 @@ Further work will be to train partners, raise awareness in the community and ide
 
 Just embarking on work with Network Rail, the Samaritans and British Transport Police to draw up a community action plan to cover awareness, bereavement support, media, information sharing etc
 
++++
+
+<!-- .slide: data-background="./back/timothy-rose-593048-unsplash.jpg" -->
+### 2018 Police Performance
+
+- Burglary
+- Robbery
+- Theft of Motor Vehicle
+- Theft from Motor Vehicle
+
+Note:
+
+Residential Burglary
+Full 111 (-37), Attempts 29 (-7)
+
+Non-Dwelling Burglary
+Full 24 (-4), Attempts 1 (-3_)
+
+Burglary Business and Community
+Full 50 (+10), Attempts 4 (-5)
+
+Robbery
+Full 20 (10), Attempts 4 (-5)
+
+Taking Of Motor Vehicle
+Full 89 (+48), Attempts 1 (+1)
+
+Taking From Motor Vehicle
+Full 226 (+226), Attempts 0 (0)
+
 ---
 
 <!-- .slide: data-background="./back/rohan-g-722255-unsplash.jpg" -->
